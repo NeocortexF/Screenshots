@@ -1,5 +1,5 @@
 # Eugene Neocortex Shamkin
-### Screenshots of Eugene apps
+### Applications presentation
 
 -------------
 
