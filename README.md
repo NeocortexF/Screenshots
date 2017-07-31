@@ -103,8 +103,9 @@ Flying Base 2 is the Safety Management System. It is the new version with more w
 ### Technologies
 
 - Java SE 8
-- Spring Framework 4.0.3
-- Hibernate 4.3.5
+- Spring Framework 4.3.9
+- Spring Secutiry 4.2.3
+- Hibernate 4.3.11
 - MySQL 5
 - Apache Commons DBCP 1.4
 - SLF4J 1.7.5
