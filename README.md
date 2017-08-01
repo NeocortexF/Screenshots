@@ -9,7 +9,7 @@ Flying Base
 -------------
 ### Java Desktop
 
-Flying Base is the Safety Management System built in accordance with ICAO Doc 9859 recommendations and ARMS work group specification. At this time used by Ural Airlines for risk assesment of flight events. Automates the working processes of Flight Deparment, about ten Air Squadrons in different cities, Engineering of Flight Data Processing and Fligth Safety Department. Consist of 4 separate desktop clients and MySQL database server with parallelisation of connection pool. Clients that are not from Company internal network connects remotely by VPN service.
+Flying Base is the Safety Management System built in accordance with ICAO Doc 9859 recommendations and ARMS work group specification. At this time used by Ural Airlines for risk assesment of flight events. Automates the working processes of Flight Deparment, about ten Air Squadrons in different cities, Engineering of Flight Data Processing and Flight Safety Department. Consist of 4 separate desktop clients and MySQL database server with parallelisation of connection pool. Clients that are not from Company internal network connects remotely by VPN service.
 
 ### Technologies
 
